@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">
-  <img src="public/mybills.gif"/> 
+  <img src="public/mybills.gif#vitrinedev"/> 
 </h1>
 
 ## ⚡️ O Projeto
